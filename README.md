@@ -1,5 +1,7 @@
 # Mosaic Layout Landing Page
 
+<img width="1728" alt="Screenshot 2023-08-16 at 2 28 31 PM" src="https://github.com/john-aja/Mosaic-Layout-Landing_page/assets/95049418/77be42be-c6fb-41d6-809d-e4b6a713b04b">
+
 This landing page showcases a visually appealing mosaic layout effect, where a single image is tiled and arranged in a grid-like pattern to create a larger, cohesive image.
 
 ## Features
